@@ -39,9 +39,9 @@ Kategori Soal
 Computer Vision - Real-time Object Detection
 
 Cara Pengerjaan
-a. Coba tiga URL YouTube yang disediakan untuk menguji akurasi YOLOv5.
-b. Jawab [ PERTANYAAN ] langsung di notebook, jika ada.
-c. Aktifkan T4 GPU di Google Colab, jika diinstruksikan.
+1. Coba tiga URL YouTube yang disediakan untuk menguji akurasi YOLOv5.
+2. Jawab [ PERTANYAAN ] langsung di notebook, jika ada.
+3. Aktifkan T4 GPU di Google Colab, jika diinstruksikan.
 
 ## SOAL NOMOR 4
 
